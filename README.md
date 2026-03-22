@@ -23,7 +23,7 @@ typing "git clone [repo url]" replace repo url with the actual url.
 step 2: Download python3, this can be done by going into microsoft store or doing this command:
 "sudo apt install python3" on linux systems.
 
-step 3: Go into terminal and do "python3 pie_os.py".
+step 3: Go into terminal and do "python3 PIE_OS.py".
 
 # When you enter the environment:
 
